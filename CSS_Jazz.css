@@ -1,1 +1,15 @@
+.nav li{
+  display: inline;
+  color: #330033;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
 
+.jumbotron h1{
+  font-family: 'Calligraffitti', sans-serif;
+}
+
+.jumbotron p{
+  color: #330033;
+  font-family: 'Raleway', sans-serif;
+}
