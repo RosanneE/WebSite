@@ -1,3 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Calligraffitti);
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,600);
+
 .nav li{
   display: inline;
   color: #330033;
@@ -6,6 +10,7 @@
 }
 
 .jumbotron h1{
+  color: ;
   font-family: 'Calligraffitti', sans-serif;
 }
 
