@@ -1,1 +1,23 @@
 
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+<div class = "nav">
+  <div class = container>
+  <ul>
+  <li> <a href = "#">Bio</a> </li>
+  <li> <a href = "#">Resume</a></li>
+  <li> <a href = "#">Links</a></li>
+  </ul>
+  </div>
+</div>
+
+</body>
+
+</html>
